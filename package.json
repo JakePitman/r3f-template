@@ -41,6 +41,8 @@
     "@storybook/react": "^8.2.7",
     "@storybook/test": "^8.2.7",
     "eslint-plugin-storybook": "^0.8.0",
+    "glslify-loader": "^2.0.0",
+    "raw-loader": "^4.0.2",
     "storybook": "^8.2.7"
   }
 }
